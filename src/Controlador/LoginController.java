@@ -50,7 +50,7 @@ public class LoginController implements Initializable {
     }    
 
     void setStage(Stage primaryStage) {
-        stage = primaryStag;
+        stage = primaryStage;
     }
     
 }
